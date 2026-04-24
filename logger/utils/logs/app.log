@@ -1,0 +1,28 @@
+
+
+2026-03-11 10:50:36 | INFO | El resultado es: 20.0
+2026-03-11 12:18:13 | ERROR | division by zero
+2026-03-11 12:18:13 | ERROR | Traceback (most recent call last):
+  File "/home/marsal/Documents/logger/logger_example.py", line 11, in main
+    result = num1 / num2
+             ~~~~~^~~~~~
+ZeroDivisionError: division by zero
+
+2026-03-11 12:19:37 | ERROR | division by zero
+2026-03-11 12:19:37 | ERROR | Traceback (most recent call last):
+  File "/home/marsal/Documents/logger/logger_example.py", line 11, in main
+    result = num1 / num2
+             ~~~~~^~~~~~
+ZeroDivisionError: division by zero
+
+2026-03-11 12:20:57 | ERROR | division by zero
+2026-03-11 12:20:57 | ERROR | Traceback (most recent call last):
+  File "/home/marsal/Documents/logger/logger_example.py", line 11, in main
+    result = num1 / num2
+             ~~~~~^~~~~~
+ZeroDivisionError: division by zero
+
+2026-03-11 12:20:57 | ERROR | No se puede dividir entre 0...
+2026-03-11 12:22:08 | INFO | Intentando calculo
+2026-03-11 12:22:08 | INFO | Calculo realizado
+2026-03-11 12:22:08 | INFO | El resultado es: 20.0
